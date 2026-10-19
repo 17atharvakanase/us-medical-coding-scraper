@@ -1,0 +1,462 @@
+url,range,timestamp,code,description,lay_term
+https://www.aapc.com/codes/cpt-modifiers/22,22-99,2025-11-04T18:22:49.632398,22,Increased Procedural Services,"Append modifier 22 to a surgical procedure when the physician’s work required to perform the procedure is more than is typically needed.
+
+Explanation
+In order to append modifier 22 to a surgical procedure, check that the physician documented the reason(s) why the work he performed was more than he typically performs, and the documentation should include any or all of the following:
+–Increased intensity
+–Additional time
+–Technical difficulty
+–Severe patient condition, which causes the surgery to be difficult, dangerous to the patient, and requires additional physical and mental effort from the physician
+  An unusual procedure is not when the physician took only a few extra minutes on the patient’s case or when the physician documents that the procedure was only slightly more difficult. There is an average range of difficulty for every procedure. A procedure could be slightly more difficult and still meet the definition of the procedure and not warrant appending modifier 22."
+https://www.aapc.com/codes/cpt-modifiers/23,22-99,2025-11-04T18:23:25.690416,23,Unusual Anesthesia,"Append modifier 23 to an anesthesia code when the provider administers general anesthesia for a procedure that does not normally require it.
+
+Explanation
+Append modifier 23 to an anesthesia code when the related procedure normally requires local or no anesthesia, but the patient requires general anesthesia because of unusual circumstances. Documentation should include why the patient required general anesthesia. Examples of situations that may require unusual anesthesia include a trauma patient who is combative when providers attempt treatment for injuries, a mentally ill patient who is unable to stay still for a procedure, and a small child who is anxious and uncooperative during imaging.
+
+Tips
+Some payers have their own guidelines for when you should report modifier 23. Check payer guidelines for requirements related to sequencing of modifiers, documentation, medical necessity, and physician supervision."
+https://www.aapc.com/codes/cpt-modifiers/24,22-99,2025-11-04T18:24:01.989038,24,Unrelated Evaluation and Management Service by the Same Physician or Other Qualified Health Care Professional During a Postoperative Period,"Append modifier 24 to an E/M service when the provider renders an E/M during the patient’s global surgery period, but the E/M is not related to the patient’s surgery.  
+
+Explanation
+When you report modifier 24, the E/M service must meet these criteria:
+  –The E/M service occurs during the postoperative period of another procedure.
+–The current E/M service is unrelated to the previous procedure.
+–The same physician (or tax ID or same group and specialty) who performed the previous procedure provides the E/M.
+–The patient’s diagnosis documented must meet medically necessity for the visit.
+
+Tips
+Sometimes a physician examines a patient within the 90–day global period of a major procedure, but for a different problem. For instance, the physician operated on the patient's anus. A month later, she sees the patient for a stomach problem. That might be when you call on modifier 24 (Unrelated evaluation and management service by the same physician during a postoperative period).
+When the patient has an E/M service with the provider for a postoperative visit, and the provider uncovers another unrelated problem during the visit, you can assign the no–charge code 99024 code for the postoperative visit, and an E/M code with modifier 24 for the unrelated problem.
+Codes 92002–92014, General Ophthalmological Services, are E/M services, and you can also append modifier 24 to these services when applicable."
+https://www.aapc.com/codes/cpt-modifiers/25,22-99,2025-11-04T18:24:38.319085,25,"Significant, Separately Identifiable Evaluation and Management Service by the Same Physician or Other Qualified Health Care Professional on the Same Day of the Procedure or Other Service","Append modifier 25 to an E/M service when the provider renders an E/M to the patient on the same day as another service or procedure. 
+
+Explanation
+The medical documentation has to justify performing the separate E/M service. The patient’s condition may warrant the same provider performing a separate E/M service and another service or procedure on the same day.
+ A provider may also render two E/M services to the same patient on the same day. Append modifier 25 to the second E/M service to prove that it was separate from the first E/M.
+
+Tips
+When using modifier 25, you should remember this maxim: If you don't have a HEM, you can't bill an E/M. Here, HEM stands for history, exam and medical decision–making. All procedures include some service related to patient evaluation and management, but a separate E/M should include its own HEM. In other words, the physician needs to determine whether the problem is significant enough to require additional work to perform the key components of the problem–oriented E/M service.
+Although the news that all procedures contain a minor related E/M service might surprise you, you probably know that modifier 25 submissions require a minimum of two codes. However, auditors tell the Insider that not all coders are aware of this, and that they occasionally see modifier 25 on claims when an E/M visit was the only service reported. Without an accompanying initial service or procedure, you can't have a significant, separately identifiable service, experts say. When submitting claims consisting solely of an E/M code, make sure you don't include modifier 25.
+According to CMS, physicians and qualified nonphysician practitioners (NPP) should use modifier 25 to designate a significant, separately identifiable E/M service provided by the same physician/qualified NPP to the same patient on the same day as another procedure or other service with a global fee period. In other words, you should not use modifier 25 when the procedure that occurred on the same day as a procedure that has no global days. The CMS definition, which is spelled out in MLN Matters article MM502, is still commonly misunderstood by many practices. Because many commonly billed procedures, such as EKGs, don't have a global period, modifier 25 should not be necessary for many claims. However, some payers do require the modifier even in these circumstances, so you should check with your payer to see whether you should include modifier 25."
+https://www.aapc.com/codes/cpt-modifiers/26,22-99,2025-11-04T18:25:15.726911,26,Professional Component,"Append modifier 26 to a code to show that the physician provided the supervision and interpretation portion of the service.
+
+Explanation
+The professional component represents the physician’s supervision and interpretation of a service (S&I), including supervision and interpretation of a radiology service.  Services with both a technical and professional component represent many radiology services and some services in the Medicine section of CPT®.
+The technical component of a service represents the use of equipment, supplies, room, and technical staff at a hospital or other facilities. The technical component modifier is TC.
+
+Tips
+Using modifier 26 in the facility setting is not always straightforward. Generally, if a physician conducts diagnostic tests or other services using equipment she doesn't own, you should append modifier 26, Professional component, to indicate that she provided only the physician component, the administration or interpretation, of the service.
+Separate the Technical and Professional
+If your physician provides both components of the service, called a global service, he may report the appropriate CPT® code with no modifiers for professional or technical components. But, when the physician component is reported separately, CPT® specifies that the service may be identified by adding modifier 26 to the code. In this case, the facility providing the equipment may claim the technical component of the service, the cost of equipment, supplies, technician salaries, etc., by reporting the appropriate CPT® code with modifier TC, Technical component. Note that payer policy may exempt hospitals from appending modifier TC because the hospital’s portion is inherently technical."
+https://www.aapc.com/codes/cpt-modifiers/27,22-99,2025-11-04T18:25:51.981820,27,Multiple Outpatient Hospital E/M Encounters on the Same Date,"Append modifier 27 to a separate, subsequent, and distinct E/M service if the patient receives more than one E/M service in the same hospital, on the same day, with different providers.
+
+Explanation
+Multiple E/M services for the same patient on the same day with different providers can include services in different hospital departments, such as a hospital based clinic or the ED.
+
+Tips
+Do not use modifier 27 to report multiple E/M services that the same provider performs for the same patient on the same day.
+Do not append modifier 27 to an E/M code for a subsequent visit at a different hospital. Modifier 27 does not apply to the subsequent E/M visit when the first visit was at another hospital.
+Check individual payer guidelines to determine those that will reimburse for E/M services with modifier 27."
+https://www.aapc.com/codes/cpt-modifiers/32,22-99,2025-11-04T18:26:29.500429,32,Mandated Services,"Append modifier 32 to a code to show that a third party mandated that the provider perform the service.  
+
+Explanation
+Mandated services are defined as required services, such as those required by a third party payer, governmental, legislative, or regulatory requirement, and you can identify these services by adding modifier 32 to the basic procedure. For example, a patient’s disability insurance or worker’s compensation insurance may mandate a service, such as a consultation, because the insurance is disputing an injury claim and wants to obtain more information. Under certain circumstances, some third–party payers may require a patient to undergo certain mandated services, such as obtaining second or third opinions, before undergoing a procedure and/or therapeutic service. When a patient is scheduled for this type of mandated service, report the procedure code for the service, and append modifier 32. Modifier 32 is informational, and when appended, notifies the third party payer that the provider performed a mandated service or procedure. You can use modifier 32 with all sections of CPT®.
+   
+Tips
+In 2000, modifier 32 was revised to include examples of other entities that may request the performance of a mandated consultative service. Consultations, including confirmatory consultations, may be requested by any appropriate source. The CPT® guidelines do not set restrictions regarding who may be considered an appropriate source. Some common examples include a physician, physician assistant, nurse practitioner, doctor of chiropractic, physical therapist, occupational therapist, speech language therapist, psychologist, social worker, lawyer, and insurance company."
+https://www.aapc.com/codes/cpt-modifiers/33,22-99,2025-11-04T18:27:05.450462,33,Preventive Services,"Append modifier 33 to services which are preventive, such as screenings for specific diseases. Do not append modifier 33 to services that are inherently screening services and contain the word screening in the descriptor, such as a screening mammogram.
+
+Explanation
+The U.S. Preventive Services Task Force is made up of healthcare experts who review different types of care and designate care that is preventive. Preventive services have an A or B rating, which signifies whether the service has a substantial or moderately substantial benefit to the patient. Providers who code these preventive services can append modifier 33 so that the insurance will process the claim for the service.
+
+Tips
+Modifier 33 allows you to tell your payer that you performed a preventive service and that the patient's deductible and coinsurance do not apply under the new Patient Protection and Affordable Care Act rules. In network insurances have to cover specific preventive services without passing the cost to the patient."
+https://www.aapc.com/codes/cpt-modifiers/47,22-99,2025-11-04T18:27:40.919338,47,Anesthesia by Surgeon,"Append modifier 47 to a procedure when the surgeon who performs the procedure also administers the regional or general anesthesia.
+
+Explanation
+An anesthesia provider typically administers regional or general anesthesia to a patient while the surgeon performs the procedure. A surgeon may also administer the regional or general anesthesia to a patient and perform the procedure. For example, an obstetrician may administer an epidural to a patient in labor. Modifier 47 does not include local anesthesia.
+
+Tips
+When the surgeon also administers regional or general anesthesia, assign the code for the procedure twice. Assign the code once without modifier 47, and assign it again with modifier 47. The payer will process the claim for the surgery itself and for the anesthesia that the surgeon administered. Do not append modifier 47 to anesthesia codes. The claim to the payer should also include the units of time spent monitoring the patient on anesthesia."
+https://www.aapc.com/codes/cpt-modifiers/50,22-99,2025-11-04T18:28:17.668732,50,Bilateral Procedure,"Append modifier 50 to a diagnostic, radiology, or surgical procedure code when the provider performs it on both sides of the body during the same operative session.
+
+Explanation
+Modifier 50 applies to procedures performed on paired organs, such as kidneys or lungs, or paired body structures, such as extremities, eyes, and ears.
+Some codes already include the word bilateral or the words unilateral or bilateral in the code descriptors. Do not append modifier 50 to these codes.
+Do not use modifier 50 with add–on codes.
+Payers typically reimburse more for bilateral procedures because the provider performed more work than is typically required for the code.
+
+Tips
+Payers may require the provider to report two units of service when billing a claim for a procedure code with modifier 50. Some payers do not recognize modifier 50 and require the provider to submit a claim showing the procedure code twice, once with modifier LT, for the left side, and once with modifier RT, for the right side, with one unit of service for each.
+You should not use modifier 50 for services performed on different extremities of the same side, such as the right leg and right arm. Modifier 50 is applicable only to services or procedures performed on identical anatomic sites, aspects, or organs, such as the right knee and left knee.
+Do not use modifier 50 with add–on codes; if the procedure is performed bilaterally, report the code twice.
+One of the first places to look to check the accuracy of modifier 50 coding is in Column T, labeled BILAT SURG, of the Medicare Physician Fee Schedule database. If you find a 1 in this column, you can append modifier 50 to the code.
+However, if you find a 0 in Column T, it means you cannot use modifier 50. You may report modifiers LT or RT, either in combination or singly, to make your claim more specific."
+https://www.aapc.com/codes/cpt-modifiers/51,22-99,2025-11-04T18:28:54.899492,51,Multiple Procedures,"Append modifier 51 to subsequent procedures, e.g., the second, third, fourth procedure, if the same provider performs multiple procedures for the same patient during the same encounter.
+
+Explanation
+Examples of using modifier 51 include the provider performing the same procedure on different anatomic sites, the provider performing different related procedures on the same anatomic site, or the provider performing the same procedure on the same anatomic site multiple times.
+Do not report modifier 51 with modifier 50, with add–on codes, with codes that are modifier 51 exempt, see Appendix E of the CPT® manual, or with bilateral procedures. Do not use modifier 51 with E/M services, physical medicine and rehabilitation services, or with supplies.
+
+Tips
+Appending modifier 51 to the second or third procedure tells the payer that the provider performed multiple procedures in the same operative session. The insurance typically reduces payment for each procedure after the first one performed. One way you can look at modifier 51 is to think of it as an informational modifier for use on the second, third, etc., surgical procedure performed on the same day. Keep in mind that Medicare does not want you to use modifier 51. Processing claims electronically allows the carrier to recognize when your physician performs multiple procedures and automatically make the necessary reduction in payment. However, some smaller payers may require the use of this modifier. Before you submit your claim, you should contact your insurance carrier and ask which method it would prefer when reporting multiple surgical procedures.
+Be sure to report the most complex procedure first, for the highest dollar amount, on the claim form. Some payers typically reimburse the most for the most expensive procedure and will reduce payment for subsequent procedures with lower charges that you report with modifier 51.
+Become familiar with the difference between modifier 51 and modifier 59. While you should not expect modifier 51 to affect whether or not the payer reimburses, modifier 59, Distinct Procedural Service, can actually affect whether a payer reimburses a claim. Modifier 59 tips off the payer that certain performed services are not normally done together, but an exception is appropriate in a particular case. This case may be for a different session, patient encounter, procedure, site, or organ system. It may also include a separate incision/excision, separate lesion, or separate injury, according to the CPT® manual. Warning: Do not  use modifier 59 when another already established modifier is appropriate."
+https://www.aapc.com/codes/cpt-modifiers/52,22-99,2025-11-04T18:29:31.351835,52,Reduced Services,"Append modifier 52 to a procedure to show that the physician did not perform the complete procedure in the code descriptor.
+
+Explanation
+Be sure that there is no other code to correctly describe the procedure before appending modifier 52.
+An example of when to use modifier 52 includes reporting a service the provider performs on one ear when the code descriptor covers both ears, or is bilateral.
+Do not use modifier 52 with time based E/M codes. Instead, report the appropriate E/M code for the time documented.
+Many times, insurances reduce payments for procedures reported with modifier 52. It is important to bill the insurance the total charge for the procedure and not reduce the charge because insurances reduce payment based on the total charges.
+ 
+Tips
+Become familiar with the difference between modifier 52 and modifier 53. Append modifier 53, Discontinued procedure, if the provider elects to terminate a surgical or diagnostic procedure due to extenuating circumstances or those that threaten the well being of the patient, according to CPT®. Generally, if the provider plans or expects a reduction in services, or if the provider electively cancels the procedure, modifier 52 is appropriate.
+When providers partially reduce or cancel procedures prior to or after administering anesthesia in an outpatient hospital or ambulatory surgery center (ASC), report modifier 73, Discontinued outpatient hospital/ambulatory surgery center (ASC) procedure prior to the administration of anesthesia, or modifier 74, Discontinued outpatient hospital/ambulatory surgery center (ASC) procedure after administration of anesthesia."
+https://www.aapc.com/codes/cpt-modifiers/53,22-99,2025-11-04T18:30:07.792905,53,Discontinued Procedure,"Append modifier 53 to a diagnostic or surgical procedure when the physician begins a procedure and then decides to terminate it, since continuing the procedure will threaten the patient’s health.
+ 
+Explanation
+Examples of reasons why a physician might discontinue a procedure include:
+–adverse reaction to anesthesia
+–obstructed airway
+–cardiac arrest
+–hemorrhaging
+–severe hypertension or hypotension
+The provider’s documentation should explain why he discontinued the procedure. Submit the documentation with the insurance claim to justify using modifier 53.
+
+Tips
+Do not append modifier 53 to E/M services or other services that are time based.
+When providers partially reduce or cancel procedures prior to or after administering anesthesia in an outpatient hospital or ambulatory surgery center (ASC), report modifier 73, Discontinued outpatient hospital/ambulatory surgery center (ASC) procedure prior to the administration of anesthesia, or modifier 74, Discontinued outpatient hospital/ambulatory surgery center (ASC) procedure after administration of anesthesia."
+https://www.aapc.com/codes/cpt-modifiers/54,22-99,2025-11-04T18:30:43.726266,54,Surgical Care Only,"Append modifier 54 to a procedure when the provider performs the procedure but does not provide the preoperative or postoperative management.
+
+Explanation
+This modifier represents intraoperative services, one of the three components of a surgical package: preoperative, intraoperative, and postoperative. Often, the same provider renders all three components of care, but sometimes, different providers render different components, or a provider transfers the patient’s care to another provider. Providers transfer care for various reasons, including the patient relocating to another geographic area, or the patient has complications that require another provider to monitor his care.
+Append one of the following modifiers to surgical procedures when different providers perform different components:
+54 – Surgical Care Only – This intraoperative modifier represents the actual procedure.
+55 – Postoperative Management Only – This modifier represents the patient’s postoperative management after surgery.
+56 – Preoperative Management Only – This modifier represents the preoperative care and evaluation before surgery.
+
+Tips
+When payers receive claims with modifiers 54, 55, or 56, they split the surgical package payment between different providers instead of paying the full package amount to one provider. Each payer has its own guidelines for the amount it will reimburse each provider. Payers typically pay a percentage of the full payment to each provider, with the highest percentage paid to the provider who rendered intraoperative services. Some insurers do not recognize these modifiers and will only pay the package payment to one provider.
+When you attach modifier 54 to a claim, you are telling the payer that the provider performed the surgical procedure but not the preoperative or postoperative services."
+https://www.aapc.com/codes/cpt-modifiers/55,22-99,2025-11-04T18:31:21.250225,55,Postoperative Management Only,"Append modifier 55 to a procedure when the provider renders the postoperative management but does not provide the preoperative or intraoperative services.
+
+Explanation
+This modifier represents postoperative services, one of the three components of a surgical package: preoperative, intraoperative, and postoperative. Often, the same provider renders all three components of care, but sometimes, different providers render different components, or a provider transfers the patient’s care to another provider. Providers transfer care for various reasons, including the patient relocating to another geographic area, or the patient has complications that require another provider to monitor his care.
+Append one of the following modifiers to surgical procedures when different providers perform different components:
+54 – Surgical Care Only – This intraoperative modifier represents the actual procedure.
+55 – Postoperative Management Only – This modifier represents the patient’s postoperative management after surgery.
+56 – Preoperative Management Only – This modifier represents the preoperative care and evaluation before surgery.
+
+Tips
+When payers receive claims with modifiers 54, 55, or 56, they split the surgical package payment between different providers instead of paying the full package amount to one provider. Each payer has its own guidelines for the amount it will reimburse each provider. Payers typically pay a percentage of the full payment to each provider, with the highest percentage paid to the provider who rendered intraoperative services. Some insurances do not recognize these modifiers and will only pay the package payment to one provider.
+Do not append modifiers 54, 55, and 56 when different providers working for the same group practice render different components of the surgery. Instead, the group practice bills the insurance with the surgical procedure code without a modifier. List the provider who rendered the intraoperative services in block 31 of the CMS 1500 claim form. The insurance will send one payment to the group practice."
+https://www.aapc.com/codes/cpt-modifiers/56,22-99,2025-11-04T18:31:58.034787,56,Preoperative Management Only,"Append modifier 56 to a procedure when the provider renders the preoperative management but does not provide the intraoperative or postoperative services.
+
+Explanation
+This modifier represents preoperative services, one of the three components of a surgical package: preoperative, intraoperative, and postoperative. Often, the same provider renders all three components of care, but sometimes, different providers render different components, or a provider transfers the patient’s care to another provider. Providers transfer care for various reasons, including the patient relocating to another geographic area, or the patient has complications that require another provider to monitor his care.
+Append one of the following modifiers to surgical procedures when different providers perform different components:
+54 – Surgical Care Only – This intraoperative modifier represents the actual procedure.
+55 – Postoperative Management Only – This modifier represents the patient’s postoperative management after surgery.
+56 – Preoperative Management Only – This modifier represents the preoperative care and evaluation before surgery.
+
+Tips
+When payers receive claims with modifiers 54, 55, or 56, they split the surgical package payment between different providers instead of paying the full package amount to one provider. Each payer has its own guidelines for the amount it will reimburse each provider. Payers typically pay a percentage of the full payment to each provider, with the highest percentage paid to the provider who rendered intraoperative services. Some insurances do not recognize these modifiers and will only pay the package payment to one provider.
+Do not append modifiers 54, 55, and 56 when different providers working for the same group practice render different components of the surgery. Instead, the group practice bills the insurance with the surgical procedure code without a modifier. List the provider who rendered the intraoperative services in block 31 of the CMS 1500 claim form. The insurance will send one payment to the group practice."
+https://www.aapc.com/codes/cpt-modifiers/57,22-99,2025-11-04T18:32:34.003735,57,Decision for Surgery,"Append modifier 57 to an E/M service if the provider decides to perform surgery the day of the E/M service or the day before.
+
+Explanation
+Modifier 57 tells the payer that they must process the claim for the E/M service instead of including it in preoperative services in the surgical package payment.
+To append modifier 57 properly, you must remember these points:
+–The E/M service occurs the day of or the day before a major surgical procedure, a procedure with a 90 day global period.
+–The E/M service must prompt the surgical procedure that follows.
+–The E/M service must be related to the procedure that follows.
+–The same provider or tax ID provides the E/M service and the surgical procedure.
+Payers have different guidelines that determine reimbursement for E/M services with modifier 57, so check with individual payers for specific information.
+
+Tips
+If E/M services are on the same day as a minor surgery with a 10 day global period or no global period, append modifier 25 to the E/M service, not modifier 57.
+You can also append modifier 57 to ophthalmological services 92002–92014.
+Modifier 57, Decision for Surgery, was often considered the go to code for procedures performed on the same date as consults. So when CMS stopped paying for consults, you might have wondered if modifier 57 would remain useful. But you can still use modifier 57 with a non consult E/M code that leads to the decision to perform surgery, as long as the provider’s documentation supports it."
+https://www.aapc.com/codes/cpt-modifiers/58,22-99,2025-11-04T18:33:09.870949,58,Staged or Related Procedure or Service by the Same Physician or Other Qualified Health Care Professional During the Postoperative Period,"Append modifier 58 to a procedure occurring during the postoperative period when the procedure is planned or staged.
+
+Explanation
+Providers perform planned or staged procedures after an initial procedure for different reasons, which can include allowing a patient time to heal from the first surgery or time for an infection to resolve. Planned procedures pertain to situations where the patient cannot tolerate multiple procedures during the same operative session, or multiple procedures are not appropriate during the same operative session.
+Modifier 58 tells the payer that the provider performed a new and subsequent procedure. The new procedure typically has its own global period, which is separate from the first procedure performed.
+Modifier 58 includes:
+–Planned, staged, or anticipated procedure
+–A procedure that is more extensive than the original procedure
+–Therapy following a surgical procedure
+–Reapplication of a cast within a 90 day global period
+Examples of when to use modifier 58 include:
+–Multiple procedures for skin grafting or scar revision, when the provider performs each procedure at a different stage of healing
+–Weight loss surgery requiring staged procedures
+–Procedures that providers typically perform in two stages
+–Removal of excess skin after weight loss, requiring the provider to wait a specific number of days between each staged procedure
+Tips
+It is important to know that some CPT® codes already include the first and subsequent procedures in the code descriptors, so do not append modifier 58 to these codes.
+
+When you have to deal with modifier 58, make sure the provider documents each stage of the surgery and plans for returning the patient to the operating room for additional procedures to manage the patient's condition. This modifier only applies to procedures with postoperative periods.
+
+When the provider treats an unanticipated condition that requires a return to the operating or procedure room, append modifier 78 to the procedure, not modifier 58."
+https://www.aapc.com/codes/cpt-modifiers/59,22-99,2025-11-04T18:33:46.589132,59,Distinct Procedural Service,"Append modifier 59 to identify a procedure that is distinct or independent from other non–E/M services that the provider performs on the same day.
+
+Explanation
+Modifier 59 applies to procedures or services not typically reported together but are appropriate in specific situations. Modifier 59 tells the payer that the same provider does not ordinarily perform one procedure with another procedure for the same patient, on the same day. The procedures would not normally be reported together. In order to report modifier 59, the provider’s documentation must support a:
+·       Different encounter or session
+·       Different surgery or procedure
+·       Different organ system or body site
+·       Separate incision or excision
+·       Separate lesion
+·       Separate injury
+Append modifier 59 only if there is no more appropriate modifier to explain the circumstances. Documentation must support the use of the modifier.
+Do not append modifier 59 to E/M services.
+Warning: Do not use modifier 59 when another already established modifier is appropriate.
+
+Tips
+Watch out for code descriptors: Some code descriptors include the words ""separate procedure,"" which tells you that the procedure is separate from other procedures performed on the same patient, and that it is appropriate to append modifier 59. Other code descriptors include multiple procedures, a primary procedure with additional procedures, bundled under one code. Do not append modifier 59 to these codes."
+https://www.aapc.com/codes/cpt-modifiers/62,22-99,2025-11-04T18:34:23.692229,62,Two Surgeons,"Append modifier 62 to procedures where two providers work together as primary surgeons, each performing a distinct part of the procedure.
+
+Explanation
+When two providers work as primary surgeons, and each performs part of a procedure, append modifier 62 to the same procedure code for each surgeon. Each surgeon reports the same procedure code to the payer, appending modifier 62 to the code. Medicare reimburses each provider a percentage of the Medicare global surgery fee schedule amount for the procedure. Each provider must clearly document the components of the surgery he performed.
+Examples of two providers working as primary surgeons for a procedure include:
+–Complex conditions, such as a trauma patient in surgery for an extended period of time, which causes the surgeons to work in shifts to complete the procedure
+–Situations where each provider performs a component of the same procedure, such as a general surgeon preparing the surgical site, and a different surgeon performing the surgery
+
+Tips
+If a co surgeon assists another surgeon with a procedure, but is not another primary surgeon, append modifier 80, Assistant Surgeon, or 82, Assistant Surgeon when qualified resident surgeon is not available, to the procedure code because modifier 62 does not apply.
+Modifier 62 does not apply to team surgery. When a team of surgeons, which is typically three or more surgeons of different specialties, works together to perform a procedure, then each surgeon bills for the procedure and appends modifier 66, Surgical Team, to the same procedure code. If surgeons of different specialties each perform a different procedure during the same session for the same patient, then modifier 62 for co surgery does not apply."
+https://www.aapc.com/codes/cpt-modifiers/63,22-99,2025-11-04T18:35:00.500144,63,Procedure Performed on Infants less than 4 kg,"Append modifier 63 to a code for a procedure that a provider performs on a neonate or infant weighing up to 4 kg, which is roughly 8.8 pounds. This modifier is not appropriate for codes designated as modifier 63 exempt.
+
+Explanation
+Modifier 63 tells payers that a procedure involved significantly increased complexity and work because the patient is a neonate or infant weighing under 4 kg. This type of patient can cause increased work intensity for reasons such as controlling the patient’s temperature and obtaining IV access.
+When you append modifier 63, the documentation of the procedure must include the patient’s weight. Payers who request medical records to support use of the modifier also may look for documentation of the significantly greater effort required and the reason for the additional work, which may include increased intensity or time, technical difficulty not described by a more comprehensive code, severity of the patient’s condition, or increased physical and mental effort.
+
+Tips
+CPT® indicates modifier 63 is appropriate only for certain procedures, such as those in the Surgery code range and certain Medicine/Cardiovascular codes. Check coding and payer guidelines for which codes accept modifier 63.
+Because modifier 63 indicates an increased level of difficulty over and above that usually encountered, as well as risk to the infant, payers may reimburse the surgeon an additional fee when you append modifier 63 correctly.
+In general, you cannot append modifier 63 to codes involving congenital anomalies or that have increased complexity associated with prematurity valued in the code. Check the CPT® appendix that features modifier 63 exempt codes for a complete listing."
+https://www.aapc.com/codes/cpt-modifiers/66,22-99,2025-11-04T18:35:37.405406,66,Surgical Team,"Append modifier 66 to a procedure code when the provider who performed the procedure was part of a surgical team performing a highly complex or difficult procedure.  
+
+Explanation
+A surgical team is typically three or more providers of different specialties and other highly skilled clinicians performing work on the same procedure, often using complex surgical equipment. Each provider on the team should document the procedure in the patient’s record. Each provider reports the same procedure code to the payer, appending modifier 66 to the code.
+Modifier 66 tells the payer that the provider was part of a surgical team, and the insurance pays each surgical team provider a specific amount instead of paying one provider the full amount for the procedure.
+Examples of procedures that need team surgery include multi stage transplant surgery and some types of cardiac surgery, where each provider has a set of special skills that enable him to perform a unique part of the procedure. Providers of different specialties may also work together as a surgical team because the patient has several conditions that require specialized and diverse skills.
+
+Tips
+Be sure that the provider’s documentation includes a specific description of the procedure performed and includes the fact that the provider was part of a surgical team."
+https://www.aapc.com/codes/cpt-modifiers/73,22-99,2025-11-04T18:36:14.154769,73,Discontinued Out-Patient Hospital/Ambulatory Surgery Center (ASC) Procedure Prior to the Administration of Anesthesia,"Append modifier 73 to a discontinued outpatient hospital or ambulatory surgery center procedure that the provider terminates before administering anesthesia.
+
+Explanation
+Modifier 73 tells the payer that the provider terminated a surgical or diagnostic procedure that requires anesthesia before administering anesthesia. The provider terminated the procedure due to extenuating circumstances that threatened the well being of the patient, after the provider prepared the patient for the procedure and took the patient to the procedure room.
+Anesthesia includes local, regional blocks, and general.
+Circumstances supporting the termination can include unexpected changes in the patient's blood pressure, sudden chest pain, or other circumstances that the provider believes puts the patient at risk if the procedure continued.
+
+Tips
+Do not use modifier 73 for elective cancellation of a service or procedure before anesthesia administration and/or surgical preparation of the patient.
+To report a discontinued procedure, refer to modifier 53, Discontinued Procedure.
+Medicare contractors apply a 50 percent payment reduction for cases that qualify for and are reported with modifier 73. Check with other payers for guidance on reporting and reimbursement of canceled procedures. Some follow the Medicare payment reduction rules; others may be subject to contract terms."
+https://www.aapc.com/codes/cpt-modifiers/74,22-99,2025-11-04T18:36:49.901110,74,Discontinued Out-Patient Hospital/Ambulatory Surgery Center (ASC) Procedure After Administration of Anesthesia,"Append modifier 74 to a discontinued outpatient hospital or ambulatory surgery center procedure that the provider terminates after administering anesthesia.
+
+Explanation
+Modifier 74 tells the payer that the provider terminated a surgical or diagnostic procedure after administering anesthesia. The provider terminated the procedure due to extenuating circumstances that threatened the well being of the patient, after the provider prepared the patient for the procedure and took the patient to the procedure room.
+Anesthesia includes local, regional blocks, and general.
+Circumstances supporting the termination can include unexpected changes in the patient's blood pressure, sudden chest pain, or other circumstances that the provider believes puts the patient at risk if the procedure continued.
+
+Tips
+Once anesthesia administration begins, the procedure is classified as a surgical procedure, and many payers reimburse the full amount for the discontinued procedure.
+Do not use modifier 74 for elective cancellation of a service or procedure before anesthesia administration and/or surgical preparation of the patient.
+To report a discontinued procedure, refer to modifier 53, Discontinued Procedure."
+https://www.aapc.com/codes/cpt-modifiers/76,22-99,2025-11-04T18:37:26.334663,76,Repeat Procedure or Service by Same Physician or Other Qualified Health Care Professional,"Append modifier 76 to a procedure or service that the same provider repeats after performing the initial procedure.
+
+Explanation
+A provider may repeat a procedure because the patient did not respond well to the first procedure or because the first procedure was not successful. A provider may also repeat a radiology procedure to render a definitive diagnosis.
+Providers often take multiple X–rays that reflect different views of the same anatomic area to get a better idea of the patient’s condition. For example, if a patient has chest pain or a possible fracture, the provider may order several radiological views of those sites. Append modifier 76 to the radiology code that the same provider repeats.
+Modifier 76 tells the payer that the repeat procedure is not the same as the original procedure. Without modifier 76 on the repeat procedure, the payer will deny the repeat procedure as a duplicate.
+
+Tips
+Be sure that the provider documents medical necessity for the repeat procedure.
+If the provider did not perform the same procedure twice, you should use modifier 59, Distinct Procedural Service, instead of modifier 76. Modifier 59 identifies procedures or services not normally performed together, but are appropriate under specific circumstances."
+https://www.aapc.com/codes/cpt-modifiers/77,22-99,2025-11-04T18:38:02.181591,77,Repeat Procedure by Another Physician or Other Qualified Health Care Professional,"Append modifier 77 to a procedure or service that a different provider repeats after another provider performed the initial procedure.
+
+Explanation
+A provider may perform a repeat procedure because the patient did not respond well to the first procedure or because the first procedure was not successful. A provider may also repeat a radiology procedure to render a definitive diagnosis.
+Providers often take multiple X–rays that reflect different views of the same anatomic area to get a better idea of the patient’s condition. For example, if a patient has chest pain or a possible fracture, the provider may order several radiological views of those sites. Append modifier 77 to the radiology code that a different provider repeats.  
+Modifier 77 tells the payer that the repeat procedure is not the same as the original procedure and is not a duplicate service.
+
+Tips
+Be sure that the provider documents medical necessity for the repeat procedure.
+Be aware of the difference between modifier 76 and modifier 77, Repeat Procedure by Another Provider or Other Qualified Health Care Professional. In both cases, code for the repeat procedure, but append modifier 76 when the same provider performs the repeat procedure, and append modifier 77 when a different provider performs the repeat procedure.
+Do not append modifier 77 to E/M services."
+https://www.aapc.com/codes/cpt-modifiers/78,22-99,2025-11-04T18:38:38.217394,78,Unplanned Return to the Operating/Procedure Room by the Same Physician or Other Qualified Health Care Professional Following Initial Procedure for a Related Procedure During the Postoperative Period,"Append modifier 78 to an unplanned procedure that requires the patient to return to the operating room. The unplanned procedure is related to an initial procedure. The provider performs the unplanned procedure during the initial procedure’s postoperative period.
+
+Explanation
+The same provider who performed the initial procedure also performs the unplanned procedure. The unplanned procedure may be the result of a complication that the initial procedure caused, but it is not considered to be a repeat procedure. Append modifier 78 to an unplanned procedure that is related to the initial procedure and requires using an operating or procedure room.
+Modifier 78 tells the payer that the provider performed the unplanned procedure within the initial procedure’s global period. Insurances typically reimburse the same for unplanned related procedures as for intraoperative services of the surgical package.
+A new global period does not begin for the unplanned related procedure because it is typically from a complication related to the initial procedure. But if the provider performs the unplanned related procedure after the global period of the initial procedure, then a new global period starts for the unplanned procedure.
+
+Tips
+Always use modifier 78 for Medicare carriers in appropriate situations. Do not use modifier 78 when the patient's condition requiring additional surgery is unrelated to the original surgery, as this warrants appending the modifier 79, Unrelated Procedure or Service by the Same Provider or Other Qualified Health Care Professional During the Postoperative Period.
+Do not use modifier 78 for repeat procedures. Instead, append modifier 76 when the same provider performs the repeat procedure, and append modifier 77 when a different provider performs the repeat procedure."
+https://www.aapc.com/codes/cpt-modifiers/79,22-99,2025-11-04T18:39:15.431947,79,Unrelated Procedure or Service by the Same Physician or Other Qualified Health Care Professional During the Postoperative Period,"Append modifier 79 to a procedure that is unrelated to the original procedure that the same provider performed and is performed during the original procedure’s postoperative period.
+
+Explanation
+Sometimes a patient undergoes surgery and then needs to have another procedure performed by the same provider, but the procedure is unrelated to the initial surgery.
+For example, a patient has a sling operation to treat stress urinary incontinence. His urologist performed the procedure. During the global period for the procedure, the patient returns to the operating room due to kidney stones, and his urologist removes them. The kidney stone removal is unrelated to the sling operation, so you would append modifier 79 to the procedure code for the kidney stone removal to show the payer that the procedure is unrelated and is not part of the surgical package payment for the initial procedure. The unrelated procedure starts a new global period.
+
+Tips
+One of the most common areas for error with modifier 79 is in determining whether the procedure was unrelated to the initial surgery and its global period.
+If the second surgery takes place on a different body part or different side of the body, modifier 79 is usually the right one. Modifier 79 is also appropriate if the provider links a second procedure to a totally different diagnosis and does not mention a complication.
+Do not use modifier 79 for repeat procedures. Instead, append modifier 76 when the same provider performs the repeat procedure, and append modifier 77 when a different provider performs the repeat procedure.
+Always query the provider if you are not sure if you should use modifier 79."
+https://www.aapc.com/codes/cpt-modifiers/80,22-99,2025-11-04T18:39:52.372360,80,Assistant Surgeon,"Append modifier 80 to a procedure code for an assistant surgeon when he assists an operating, or principal, surgeon during an entire procedure.
+
+Explanation
+The principal surgeon oversees the patient’s case. Assistant surgeons may be necessary because the procedure or the patient’s condition is complex. The assistant surgeon performs under the direct supervision of the principal surgeon and is often in the same specialty as the principal surgeon.
+For billing, the principal surgeon submits the procedure code for the surgery to the payer. The assistant surgeon submits the same procedure code with modifier 80.
+
+Tips
+Take note of the three modifiers for assistant surgeons, including:
+80 – Assistant Surgeon – assists the principal surgeon during the entire procedure
+81 – Minimum Assistant Surgeon – assists the principal surgeon during part of the procedure
+82 – Assistant Surgeon when qualified resident surgeon is not available – assists the principal surgeon during the entire procedure when a medical resident is not available to assist"
+https://www.aapc.com/codes/cpt-modifiers/81,22-99,2025-11-04T18:40:28.017143,81,Minimum Assistant Surgeon,"Append modifier 81 to a procedure code for an assistant surgeon when he assists an operating, or principal, surgeon during part of a procedure.
+
+Explanation
+The principal surgeon oversees the patient’s case. Assistant surgeons may be necessary because the procedure or the patient’s condition is complex. The assistant surgeon performs under the direct supervision of the principal surgeon and is often in the same specialty as the principal surgeon.
+For billing, the principal surgeon submits the procedure code for the surgery to the payer. The assistant surgeon submits the same procedure code with modifier 81.
+ 
+Tips
+Take note of the three modifiers for assistant surgeons, including:
+80 – Assistant Surgeon – assists the principal surgeon during the entire procedure
+81 – Minimum Assistant Surgeon – assists the principal surgeon during part of the procedure
+82 – Assistant Surgeon when qualified resident surgeon is not available – assists the principal surgeon during the entire procedure when a medical resident is not available to assist
+Other clinicians can assist with surgeries, but you should only use the Assistant Surgeon modifiers for procedures that physicians perform.
+Medicare and many other payers require providers to obtain preauthorization for services and procedures before approving assistant surgeons’ claims for payment. Payers also reimburse differently for assistant surgeons and minimum assistant surgeons, often paying a percentage of the total reimbursement amount for the procedure, with less paid to a minimum assistant surgeon than an assistant surgeon."
+https://www.aapc.com/codes/cpt-modifiers/82,22-99,2025-11-04T18:41:05.396816,82,Assistant Surgeon (when qualified resident surgeon not available),"Append modifier 82 to a procedure code for an assistant surgeon when he assists an operating, or principal, surgeon during an entire procedure because a medical resident was unavailable to assist.
+
+Explanation
+The principal surgeon oversees the patient’s case. Assistant surgeons may be necessary because the procedure or the patient’s condition is complex. The assistant surgeon performs under the direct supervision of the principal surgeon and is often in the same specialty as the principal surgeon.
+For billing, the principal surgeon submits the procedure code for the surgery to the payer. The assistant surgeon submits the same procedure code with modifier 82. The assistant surgeon must document that a medical resident was not available to assist with the procedure.
+ 
+Tips
+Take note of the three modifiers for assistant surgeons, including:
+80 – Assistant Surgeon – assists the principal surgeon during the entire procedure
+81 – Minimum Assistant Surgeon – assists the principal surgeon during part of the procedure"
+https://www.aapc.com/codes/cpt-modifiers/90,22-99,2025-11-04T18:41:41.801768,90,Reference (Outside) Laboratory,"Append modifier 90 to a laboratory or pathology test when a reference, or outside, laboratory performs the test instead of the treating or reporting provider.
+
+Explanation
+Physicians and other providers can collect specimens for lab tests and then send the specimens to an outside lab for testing. They can then bill the patient’s insurance for the lab code with modifier 90 appended. Physicians would need to pay the lab separately for the services that they perform, since the lab would not bill the patient’s insurance. Physicians often mark up the charges for laboratory services using this billing method, and several states have passed laws requiring laboratory direct billing for laboratory and pathology services.
+Medicare and most payers restrict the appropriate use of this modifier. Independent labs should use the modifier when they send out certain tests to a reference lab. Then they must include the name, address, and CLIA number of both the referring and reference laboratories on the Medicare claims. Medicare will pay the claim at the rate used for the reference lab's jurisdiction.
+
+Tips
+Note that CPT® does not list 90 as one of the modifiers approved for hospital outpatient use."
+https://www.aapc.com/codes/cpt-modifiers/91,22-99,2025-11-04T18:42:18.334179,91,Repeat Clinical Diagnostic Laboratory Test,"Append modifier 91 to a repeat lab test on the same day for the same patient.
+
+Explanation
+During the course of a patient’s treatment, the lab provider may need to obtain subsequent, or multiple, lab test results to better monitor the patient’s condition.
+For example, a lab provider performs a glucose test for a patient, and the test shows that the patient has hypoglycemia. The patient takes glucose supplements, and the lab provider performs the test again 30 minutes later. The second test reveals that the patient’s glucose levels are normal. The lab provider should report the first glucose test with the appropriate CPT® code and then report the second glucose test with the same CPT® code, appending modifier 91. Modifier 91 tells the payer that the second test was not a duplicate but was medically necessary.
+
+Tips
+Do not use modifier 91 for tests that the provider repeated to confirm initial results because of testing problems with specimens or equipment, or for any reason when a normal one time result is all that is needed.
+Do not use modifier 91 with codes that describe a series of test results, such as glucose tolerance or evocative suppression tests."
+https://www.aapc.com/codes/cpt-modifiers/92,22-99,2025-11-04T18:42:55.746999,92,Alternative Laboratory Platform Testing,"Append modifier 92 to a lab test in the form of a kit or transportable instrument that consists of a single use, disposable, analytical chamber.
+
+Explanation
+The test does not require a dedicated, permanent space to perform. A provider may hand carry the test or transport it to a different location for testing.
+An example of an alternative laboratory platform test is an antibody HIV 1 test."
+https://www.aapc.com/codes/cpt-modifiers/93,22-99,2025-11-04T18:43:31.453127,93,Synchronous Telemedicine Service Rendered Via Telephone or Other Real-Time Interactive Audio-Only Telecommunications System,"Append modifier 93 to indicate a service rendered to a patient used audio–only technology. The technology allows for real–time (synchronous) interaction between the provider and patient.
+
+Explanation
+Modifier 93 indicates the provider rendered a healthcare service using an audio–only communication technology. The technology allows the patient and provider to communicate in real time. An example is a telephone call using sound without video visualization of the patient. This may occur when the patient is unable to use, does not wish to use, or does not have access to two–way, audio/video technology.
+The patient is at a distant site from the provider. The extent and nature of the communication during the telemedicine service must meet the key components or requirements of the same service performed face–to–face.
+
+Tips
+Payers may designate specific codes for which the provider may use this modifier. Check with the individual payer for their specific policies, guidelines, and codes for which modifier 93 assignment is applicable. Some payers may require use of another modifier or a specific place of service code, instead, so it is important to always check the rules that apply to the specific encounter."
+https://www.aapc.com/codes/cpt-modifiers/95,22-99,2025-11-04T18:44:08.098991,95,Synchronous Telemedicine Service Rendered Via a Real-Time Interactive Audio and Video Telecommunications System,"Append modifier 95 to a service to identify those services provided through a synchronous or real–time audiovisual conference between a patient and a provider, in which the provider at a distant site provides healthcare services for a patient at a different location.
+
+Explanation
+Modifier 95 denotes a telehealth system that provides two–way, real–time audiovisual conferencing between a patient and the provider, in which the provider at a distant site provides healthcare services including an examination for a patient at a different location. The patient must be an active participant in the telehealth visit.
+
+Tips
+Payers may designate specific codes for which the provider may use this modifier. Check with the individual payer for their specific policies, guidelines, and codes for which modifier 95 assignment is applicable. Some payers may require use of modifier GT or a specific place of service code, instead, so it is important to always check the rules that apply to the specific encounter."
+https://www.aapc.com/codes/cpt-modifiers/96,22-99,2025-11-04T18:44:44.337777,96,Habilitative Services,"A provider appends this modifier to habilitative services. The provider delivers habilitative services to develop, maintain, or improve a patient’s skills to perform his activities of daily living (ADLs) or instrumental activities of daily living (IADLs).
+
+Explanation
+A provider appends modifier 96 to habilitative services, which may include services such as speech language pathology, or SLP services and physical therapy services, or PT.
+The provider performs habilitative services such as SLP and PT with the purpose of maintaining, developing, or improving the patient’s skills, which do not develop, have been temporarily lost, or are skills the patient may lose in the future.
+The reasons for habilitative services may be injury, disease, illness, or an abnormality from birth. For example, the provider may give SLP habilitative services to a child who does not start speaking by a reasonable age. The provider may also provide physical habilitative services to a child who does not start walking by the expected age."
+https://www.aapc.com/codes/cpt-modifiers/97,22-99,2025-11-04T18:45:20.810242,97,Rehabilitative Services,"A provider appends this modifier to rehabilitative services. The provider delivers rehabilitative services to help restore or improve a patient’s skill or function that was lost due to injury or disease.
+
+Explanation
+Rehabilitative services, including devices, are provided to help a person regain, maintain, or prevent deterioration of a skill or function that has been acquired but then lost or impaired due to illness, injury, or disabling condition. Rehabilitation may include physical or occupational therapy or speech–language pathology therapy.
+
+Tips
+HCPCS outpatient rehabilitation services modifiers include GN for speech language pathology, GO for occupational therapy, and GP for physical therapy."
+https://www.aapc.com/codes/cpt-modifiers/99,22-99,2025-11-04T18:45:56.827341,99,Multiple Modifiers,"Append modifier 99 to a procedure or service as the first modifier when there are also two or more additional modifiers applicable to the service or procedure.
+
+Explanation
+Payers have different reporting guidelines for multiple modifiers. Some require providers to bill multiple modifiers by first listing modifier 99, followed by all other applicable modifiers. Others require providers to list modifier 99 in the modifier field of block 24D of the CMS 1500 form, and list all other modifiers in block 19 with the appropriate code. Still other payers do not require using modifier 99 when multiple modifiers apply to the code.
+
+Tips
+Modifier 99 comes into play when there are not enough spaces in your computer system, or the payer’s computer system, to hold all modifiers associated with the procedure. Most systems can accommodate at least two or three modifiers. If a claim requires more than three modifiers, the payer may require you to list the actual modifiers in block 19 or in the appropriate electronic space for additional information.
+Take note that neither CMS nor the AMA has definitive guidelines on the order in which you should report multiple modifiers, either after listing modifier 99, or in the absence of modifier 99. Many providers first list modifiers that directly affect reimbursement, followed by modifiers used for informational purposes. It is best to check with individual payers to determine their guidelines for reporting multiple modifiers."
+https://www.aapc.com/codes/cpt-modifiers/P1,P1-P6,2025-11-04T18:46:33.313848,P1,A normal healthy patient,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/P2,P1-P6,2025-11-04T18:47:10.666224,P2,A patient with mild systemic disease,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/P3,P1-P6,2025-11-04T18:47:48.147637,P3,A patient with severe systemic disease,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/P4,P1-P6,2025-11-04T18:48:25.416422,P4,A patient with severe systemic disease that is a constant threat to life,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/P5,P1-P6,2025-11-04T18:49:02.877899,P5,A moribund patient who is not expected to survive without the operation,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/P6,P1-P6,2025-11-04T18:49:39.378204,P6,A declared brain-dead patient whose organs are being removed for donor purposes,No Lay Term found for this code
+https://www.aapc.com/codes/cpt-modifiers/1P,1P-8P,2025-11-04T18:50:16.390112,1P,Performance Measure Exclusion Modifier due to Medical Reasons,"Append modifier 1P to a quality reporting code to indicate the patient’s medical status prevents the provider from performing the action specified by a quality measure.
+
+Explanation
+You should append modifier 1P to a quality reporting code when medical reasons keep the provider from completing the action a quality measure requires.
+For instance, if the measure tracks performance of a test on a limb, but the patient no longer has that limb because of amputation, you should append 1P to the appropriate quality code to indicate medical reasons stopped the provider from performing the action. Similarly, you should append 1P if the measure tracks prescription of a drug that the provider doesn’t prescribe because the patient is allergic to it.
+You should not use modifier 1P unless listed as a reportable option for the specific quality code you’re reporting.
+
+Tips
+This modifier is called an exclusion modifier because it excludes the patient from a quality measure’s denominator, which is the eligible patient population.
+Various exclusion modifiers are available for quality reporting:
+1P, Performance Measure Exclusion Modifier due to Medical Reasons"
+https://www.aapc.com/codes/cpt-modifiers/2P,1P-8P,2025-11-04T18:50:53.625112,2P,Performance Measure Exclusion Modifier due to Patient Reasons,"Append modifier 2P to a quality reporting code to indicate that patient reasons, such as refusal, prevent the provider from performing the action specified by a quality measure.
+
+Explanation
+You should append modifier 2P to a quality reporting code when patient reasons keep the provider from completing the action a quality measure requires.
+For instance, if a measure requires a test or service that the patient refuses to have because of financial or religious reasons, you would append 2P to the appropriate quality code to indicate patient reasons stopped the provider from performing the action.
+You should not use modifier 2P unless listed as a reportable option for the specific quality code you’re reporting.
+
+Tips
+This modifier is called an exclusion modifier because it excludes the patient from a quality measure’s denominator, which is the eligible patient population.
+Various exclusion modifiers are available for quality reporting:
+1P, Performance Measure Exclusion Modifier due to Medical Reasons
+2P, Performance Measure Exclusion Modifier due to Patient Reasons
+3P, Performance Measure Exclusion Modifier due to System Reasons.
+For 1P, medical reasons may include a contraindication based on the patient’s specific medical history. For 2P, an example of a patient reason is that the patient refuses a service because he does not want to pay for it. An example of the system reasons under 3P is that the entity does not have the equipment needed for the service."
+https://www.aapc.com/codes/cpt-modifiers/3P,1P-8P,2025-11-04T18:51:31.038908,3P,Performance Measure Exclusion Modifier due to System Reasons,"Append modifier 3P to a quality reporting code to indicate the provider did not perform the action a quality measure specifies for reasons related to the healthcare delivery system.
+
+Explanation
+You should append modifier 3P to a quality code when reasons connected to the healthcare delivery system prevent the provider from completing the action a quality measure requires.
+For instance, if a measure requires a test using equipment the provider does not have, you would append 3P to the appropriate quality code to indicate system reasons stopped the provider from performing the action.
+You should not use modifier 3P unless listed as a reportable option for the specific quality code you’re reporting.
+
+Tips
+This modifier is called an exclusion modifier because it excludes the patient from a quality measure’s denominator, which is the eligible patient population.
+Various exclusion modifiers are available for quality reporting:
+1P, Performance Measure Exclusion Modifier due to Medical Reasons
+2P, Performance Measure Exclusion Modifier due to Patient Reasons
+3P, Performance Measure Exclusion Modifier due to System Reasons.
+For 1P, medical reasons may include a contraindication based on the patient’s specific medical history. For 2P, an example of a patient reason is that the patient refuses a service because he does not want to pay for it. An example of the system reasons under 3P is that the entity does not have the equipment needed for the service."
+https://www.aapc.com/codes/cpt-modifiers/8P,1P-8P,2025-11-04T18:52:07.943683,8P,"Performance Measure Reporting Modifier - Action Not Performed, Reason Not Otherwise Specified","Append modifier 8P to a quality reporting code to indicate the provider did not perform the action a quality measure specifies. Use this modifier when the provider does not document the reason for not performing the action for an eligible patient.
+
+Explanation
+You should use modifier 8P on a quality code for an eligible patient when the provider does not document the reason for not completing the action a quality measure requires.
+You should not use modifier 8P unless listed as a reportable option for the specific quality code you’re reporting.
+
+Tips
+Modifier 8P applies when the provider does not document the reason for not performing the action. If the provider does document the reason, you instead should use the appropriate exclusion modifier.
+This modifier is called an exclusion modifier because it excludes the patient from a quality measure’s denominator, which is the eligible patient population.
+Various exclusion modifiers are available for quality reporting:
+1P, Performance Measure Exclusion Modifier due to Medical Reasons
+2P, Performance Measure Exclusion Modifier due to Patient Reasons
+3P, Performance Measure Exclusion Modifier due to System Reasons.
+For 1P, medical reasons may include a contraindication based on the patient’s specific medical history. For 2P, an example of a patient reason is that the patient refuses a service because he does not want to pay for it. An example of the system reasons under 3P is that the entity does not have the equipment needed for the service."

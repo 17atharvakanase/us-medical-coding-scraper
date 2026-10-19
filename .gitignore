@@ -1,0 +1,27 @@
+# ChromeDriver binaries — download your own matching your Chrome version
+chromedriver/
+chromedriver-old/
+*.zip
+*.exe
+
+# Run-time artifacts (checkpoints, screenshots, incremental CSVs, logs)
+outputs/
+results/
+Config/
+*.log
+checkpoint.json
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+~$*.xlsx
